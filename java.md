@@ -33,4 +33,5 @@ The application is accepted if:
 
 ###  What is the difference between id and class in CSS? [2p]
 #### Your answer: 
-[add your answer here]
+Class is a type of item, while ID is a special, unique item on the page. It means, that class should be used, if we supposed, that multiple items will require the same design, 
+while ID stresses the fact, that there will no more similar items.
